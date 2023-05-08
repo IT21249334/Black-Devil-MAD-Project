@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">jobs.lk</string>
+    <string name="btn_reg">Register</string>
+    <string name="btn_view">View</string>
+    <string name="btn_remove">Remove</string>
+    <string name="e_reg_com">Company name :</string>
+    <string name="e_reg">Reg No. :</string>
+    <string name="e_reg_cont">Country :</string>
+    <string name="e_reg_des">District :</string>
+    <string name="e_reg_mail">E-Mail :</string>
+    <string name="e_reg_phone">Contact No. :</string>
+    <string name="all_ready">Already have an account ?</string>
+    <string name="signin">Sign in</string>
+</resources>
