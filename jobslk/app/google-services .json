@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700955968125",
+    "project_id": "feedbackrealtimekotlin-64af3",
+    "storage_bucket": "feedbackrealtimekotlin-64af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700955968125:android:8baae9b9633c60522ee714",
+        "android_client_info": {
+          "package_name": "com.example.jobslk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700955968125-5fdlpuh7lrbtf6k0pktvfv4totsp415i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAqTdoZqAvgmu2fQ2pYXInLX8ixlLdlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700955968125-5fdlpuh7lrbtf6k0pktvfv4totsp415i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
