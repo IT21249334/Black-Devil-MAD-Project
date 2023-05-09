@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Jobs.lk</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancle">Cancle</string>
+    <string name="btn_view">View</string>
+    <string name="btn_leave_a_feedback">Leave a feedback</string>
+    <string name="btn_show_feedback">Show Feedback</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="view">View</string>
+    <string name="leave_a_feedback">Leave a feedback</string>
+    <string name="btn_jobs.lk">jobs.lk</string>
+    <string name="btn_feedbacks">Feedbacks</string>
+    <string name="btn_Feedback_ID_C0056">Feedback ID : C0056</string>
+    <string name="btn_Name_Amandi_Fernando">Name : Amandi Fernando</string>
+    <string name="btn_Feedback_Very_user_friendly">Feedback : Very user friendly</string>
+    <string name="Feedback_ID_C0057">Feedback ID : C0057</string>
+    <string name="Name_Ruchira_Silva">Name : Ruchira Silva</string>
+    <string name="Feedback_Great_service">Feedback : Great service!</string>
+    <string name="Feedback_ID_C0058">Feedback ID : C0058</string>
+    <string name="Name_Sonali_Fernando">Name : Sonali Fernando</string>
+    <string name="Feedback_Its_really_worth">Feedback : Its really worth</string>
+    <string name="Jobs.lk">Jobs.lk</string>
+    <string name="Give_Your_Feedback">Give Your Feedback</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Enter_your_email">Enter your email</string>
+    <string name="Give_your_opinions_here">Give your opinions here</string>
+    <string name="Thank_you">Thank you!</string>
+    <string name="Your_feedback_has_been_sent">Your feedback has been sent</string>
+    <string name="btn_Jobs.lk">Jobs.lk</string>
+    <string name="btn_Jobs._lk">Jobs.lk</string>
+    <string name="Write_Feedback">Write Feedback</string>
+    <string name="Amandi_Fernando">Amandi Fernando</string>
+    <string name="Amandi001_gmail_com">Amandi001@gmail.com</string>
+
+
+</resources>
