@@ -12,13 +12,13 @@
         android:theme="@style/Theme.Main"
         tools:targetApi="31">
         <activity
-            android:name=".UpdateDialog"
+            android:name=".Activities.UpdateDialog"
             android:exported="false" />
         <activity
             android:name=".Activities.FetchingActivity"
             android:exported="false" />
         <activity
-            android:name=".customerProfile"
+            android:name=".Activities.customerProfile"
             android:exported="false" />
         <activity
             android:name=".Activities.customerRegister"
